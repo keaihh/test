@@ -1,2 +1,3 @@
 123
 master修复了一个bug
+issue添加了一些新功能
